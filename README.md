@@ -10,7 +10,7 @@ The codes processing long reads are from https://github.com/sixvable/q2-dada2-CC
 #### Create the environment
 `cd ./qiime2-2021.4-Pacbio-git`
 
-`conda env create -n qiime2-2021.4-Pacbio --file qiime2-2021.4-Pacbio.yml`
+`conda env create -n qiime2-2021.4-Pacbio --file qiime2-2021.4-py38-linux-conda.yml`
 
 #### Start the environment
 `conda activate qiime2-2021.4-Pacbio`
